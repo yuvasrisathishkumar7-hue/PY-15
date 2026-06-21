@@ -171,11 +171,28 @@ Therefore, there is a need for an automated system that can analyze student data
 
 Shows the number of students who passed and failed examinations.
 
+
+
+<img width="1761" height="407" alt="image" src="https://github.com/user-attachments/assets/45ae12f6-9d2b-4133-944d-9053495d62b4" />
+
+
+
+
 ---
 
 ## GENDER DISTRIBUTION
 
 Displays male and female student distribution.
+
+
+
+
+
+<img width="1756" height="419" alt="image" src="https://github.com/user-attachments/assets/619e4c30-53b6-40cc-8bcd-7df5438fc5cc" />
+
+
+
+
 
 ---
 
@@ -183,11 +200,27 @@ Displays male and female student distribution.
 
 Shows how study hours are distributed among students.
 
+
+
+
+<img width="1767" height="412" alt="image" src="https://github.com/user-attachments/assets/0da0896a-10d1-4cbf-bc88-d35ced7f1e94" />
+
+
+
+
 ---
 
 ## ATTENDANCE RATE DISTRIBUTION
 
 Displays attendance percentage distribution.
+
+
+
+<img width="1765" height="423" alt="image" src="https://github.com/user-attachments/assets/c7fb5895-26f0-42ae-abcd-47934ae46665" />
+
+
+
+
 
 ---
 
@@ -195,11 +228,25 @@ Displays attendance percentage distribution.
 
 Shows the frequency distribution of final examination scores.
 
+
+
+<img width="1762" height="420" alt="image" src="https://github.com/user-attachments/assets/74447715-9582-47ab-b62f-554302ba22c4" />
+
+
+
+
 ---
 
 ## STUDY HOURS VS FINAL EXAM SCORE
 
 Illustrates the relationship between study hours and academic performance.
+
+
+
+<img width="687" height="470" alt="image" src="https://github.com/user-attachments/assets/fcc59e53-43df-4a75-908b-2f67a6a39a07" />
+
+
+
 
 ---
 
@@ -207,17 +254,40 @@ Illustrates the relationship between study hours and academic performance.
 
 Shows how attendance influences final examination scores.
 
+
+
+
+<img width="687" height="470" alt="image" src="https://github.com/user-attachments/assets/a4f56a32-9913-46c5-b2c6-a62e05a2de12" />
+
+
+
+
 ---
 
 ## OUTLIER DETECTION
 
 Identifies unusual student performance patterns using Box Plot.
 
+
+
+<img width="1759" height="417" alt="image" src="https://github.com/user-attachments/assets/53c393d8-a8dc-4e26-8133-150902e3c0db" />
+
+
+
+
+
 ---
 
 ## CORRELATION HEATMAP
 
 Displays relationships among numerical variables affecting academic performance.
+
+
+
+<img width="1765" height="418" alt="image" src="https://github.com/user-attachments/assets/b4986d38-2683-4d4a-bcb8-10084f8806e9" />
+
+
+
 
 ---
 
@@ -230,6 +300,12 @@ Students are classified into:
 * Low Risk
 
 This helps institutions identify students requiring additional academic support.
+
+
+
+
+<img width="1767" height="421" alt="image" src="https://github.com/user-attachments/assets/8fa0dd29-babc-4c08-a8ad-50b47183c225" />
+
 
 ---
 
@@ -255,6 +331,17 @@ Balances Precision and Recall.
 
 Displays correct and incorrect predictions.
 
+
+
+
+
+<img width="404" height="309" alt="image" src="https://github.com/user-attachments/assets/2d7fbfa1-5ef2-49e6-8111-1fa7246d2d62" />
+
+
+
+
+
+
 ### ROC-AUC Score
 
 Evaluates classification performance.
@@ -262,6 +349,13 @@ Evaluates classification performance.
 ### ROC Curve
 
 Visual representation of model effectiveness.
+
+
+
+<img width="556" height="375" alt="image" src="https://github.com/user-attachments/assets/51232e59-cae0-4e3c-9fdb-a8d8a81b07aa" />
+
+
+
 
 ---
 
@@ -271,17 +365,41 @@ Visual representation of model effectiveness.
 
 Interactive visualization of academic outcomes.
 
+
+
+<img width="1762" height="410" alt="image" src="https://github.com/user-attachments/assets/abc6b709-2cc8-465a-9121-416a617a698a" />
+
+
+
+
+
 ### Study Hours Analysis
 
 Interactive analysis of study habits.
+
+
+<img width="1763" height="415" alt="image" src="https://github.com/user-attachments/assets/9a40c28c-9ed8-4693-bffa-433a61bff507" />
+
 
 ### Attendance Analysis
 
 Interactive visualization of attendance patterns.
 
+
+
+<img width="1761" height="417" alt="image" src="https://github.com/user-attachments/assets/78c5619f-0c85-4bbb-ad10-c11bb6332a14" />
+
+
+
 ### Gender-wise Performance
 
 Comparison of academic performance by gender.
+
+
+<img width="1762" height="424" alt="image" src="https://github.com/user-attachments/assets/b7d9a24c-884e-4d1e-8c90-b2158977c090" />
+
+
+
 
 ### Internet Access Impact
 
@@ -291,9 +409,24 @@ Analyzes the effect of internet availability on student success.
 
 Displays student risk categories for academic intervention.
 
+
+
+<img width="1769" height="408" alt="image" src="https://github.com/user-attachments/assets/8058174a-8408-4ba9-b98b-f797bcf7a772" />
+
+
+
+
 ### Interactive Correlation Heatmap
 
 Visual exploration of relationships among variables.
+
+
+
+<img width="1764" height="416" alt="image" src="https://github.com/user-attachments/assets/0a9f99c4-e67d-473f-8ae6-dd7a7745e6be" />
+
+
+
+
 
 ### Dynamic Data Exploration
 
